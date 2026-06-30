@@ -1,0 +1,16 @@
+﻿{
+    "subscriptionName":  [
+                             "Card DevOps",
+                             "OpenAI-Azure",
+                             "Microsoft Azure Enterprise",
+                             "M365-Backup"
+                         ],
+    "subscriptionId":  [
+                           "a223995c-976c-4d99-93fe-8baaac10e787",
+                           "ba5335ae-fc67-459d-975f-abe5fa5d97a4",
+                           "3092c4bc-8fd6-4e84-a20d-52ae2c3eaf62",
+                           "c4a5f892-ca5b-4c19-b9cd-9a598126d0c1"
+                       ],
+    "scope":  "account set",
+    "error":  "Falha ao selecionar subscription"
+}
